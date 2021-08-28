@@ -524,6 +524,10 @@ ul.rb li .timestamp {
     margin-top: 5px;
 }
 
+.term:hover {
+    background-color: #A44A3F;
+}
+
 .copyright {
     color: #A44A3F;
     margin-top: 100px;
